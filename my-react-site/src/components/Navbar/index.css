@@ -1,0 +1,23 @@
+nav {
+  height: 10vh;
+  background: #e6e6e6;  
+}
+
+a {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 400;
+  text-decoration: none;
+  color: #0f0f0f;
+}
+
+a:hover {
+  color: #0f0f0f;
+  cursor: default;
+}
+
+.navlink:hover {
+  text-decoration: underline;
+  text-decoration-color: #0f0f0f;
+  color: #0f0f0f;
+  cursor: pointer;
+}

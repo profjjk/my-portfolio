@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "Game of Thrones Quiz",
+    "description": "This is a Game of Thrones themed quiz consisting of 20 questions and set to a timer. Wrong answers will decrease the timer. Correct answers will be scored and a percentage will display at the end. Player names and scores are stored for reference and can be called upon by clicking on the scoreboard.",
+    "image": "/img/got-quiz.png",
+    "github": "https://github.com/profjjk/code-quiz",
+    "webiste": "https://profjjk.github.io/code-quiz/"
+  },
+  {
+    "id": 2,
+    "title": "Work Day Scheduler",
+    "description": "This is a work day scheduler that displays the current date, takes in information for each hour and remembers that information, and uses color-coding to display past, present, and future.",
+    "image": "/img/scheduler.png",
+    "github": "https://github.com/profjjk/work-day-scheduler",
+    "webiste": "https://profjjk.github.io/work-day-scheduler/"
+  },
+  {
+    "id": 3,
+    "title": "What's for Dinner?",
+    "description": "Whether you want to dine in or dine out, this application will help you discover new recipes and search for top-rated restaurants in your area.",
+    "image": "/img/dinner.png",
+    "github": "https://github.com/profjjk/whats-for-dinner",
+    "webiste": "https://vubao2303.github.io/Project-1/"
+  },
+  {
+    "id": 4,
+    "title": "Note Taker",
+    "description": "This is a simple application for taking notes. It allows the user to create and delete notes.",
+    "image": "/img/notes.png",
+    "github": "https://github.com/profjjk/note-taker",
+    "webiste": "https://ucb-jk-note-taker.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "title": "The Office",
+    "description": "This is an office management program that runs on the command line and allows you to view, add, and delete employees, roles, and departments.",
+    "image": "/img/office.png",
+    "github": "https://github.com/profjjk/the-office",
+    "webiste": "https://github.com/profjjk/the-office"
+  },
+  {
+    "id": 6,
+    "title": "Employee Viewer",
+    "description": "This application takes in data about employees and renders a nicely formatted html page that displays a brief summary about each employee.",
+    "image": "/img/employees.png",
+    "github": "https://github.com/profjjk/employee-template",
+    "webiste": "https://github.com/profjjk/employee-template"
+  },
+  {
+    "id": 7,
+    "title": "README Generator",
+    "description": "This is an application that utilizes node.js to create a professional README file from the command line. When the application is launched it prompts the user for information that will then be formatted and passed along to a newly created README file.",
+    "image": "/img/none.png",
+    "github": "https://github.com/profjjk/readme-generator",
+    "webiste": "https://github.com/profjjk/readme-generator"
+  },
+  {
+    "id": 8,
+    "title": "Weather Dashboard",
+    "description": "This is a weather dashboard that queries the OpenWeather API to return weather data for the current day and provide a 5-day forecast based on the user's search for a city.",
+    "image": "/img/weather.png",
+    "github": "https://github.com/profjjk/weather-dashboard",
+    "webiste": "https://profjjk.github.io/weather-dashboard/"
+  },
+  {
+    "id": 9,
+    "title": "Bookish",
+    "description": "Bookish is a reading list application that allows you to keep a list of which books you have read, and it allows you to add new books that you want to read later.",
+    "image": "/img/bookish.png",
+    "github": "https://github.com/profjjk/bookish",
+    "webiste": "https://vast-refuge-78256.herokuapp.com/"
+  },
+  {
+    "id": 10,
+    "title": "My Job",
+    "description": "This is a full stack web application that empowers a user to better organize their job search. The user can create a unique profile, add job applications, track their status, update with notes, and compare data.",
+    "image": "/img/my-job.png",
+    "github": "https://github.com/profjjk/my-job",
+    "webiste": "https://fathomless-atoll-85765.herokuapp.com/"
+  },
+  {
+    "id": 11,
+    "title": "Get Fit",
+    "description": "This is a fitness and workout tracker that utilizes MongoDB and Mongoose.js to create a database of your workouts.",
+    "image": "/img/workout.png",
+    "github": "https://github.com/profjjk/get-fit",
+    "webiste": "https://enigmatic-forest-51441.herokuapp.com"
+  },
+  {
+    "id": 12,
+    "title": "President Shuffle",
+    "description": "This is a game built using React.js. Everytime time you click on an image the page will scramble their positions and you will need to click on a new image. If you click on the same image twice then it's GAME OVER.",
+    "image": "/img/shuffle.png",
+    "github": "https://github.com/profjjk/president-shuffle",
+    "webiste": "https://profjjk.github.io/president-shuffle/"
+  },
+  {
+    "id": 12,
+    "title": "Staff Directory",
+    "description": "This is an employee directory built using React. You can search the directory by name and sort it alphabetically by name.",
+    "image": "/img/directory.png",
+    "github": "https://github.com/profjjk/staff-directory",
+    "webiste": "https://profjjk.github.io/staff-directory/"
+  }
+]

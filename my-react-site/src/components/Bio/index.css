@@ -1,0 +1,38 @@
+main {
+  height: 90vh;
+  background: url('../../img/collage.png') no-repeat center fixed;
+  background-size: cover;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  font-size: 2.5em;
+  color: #fad586;
+}
+
+hr {
+  color:#fad586;
+}
+
+ul, li {
+  list-style: none;
+}
+
+.year {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.2em;
+  font-weight: 300;
+  color: #fad586;
+}
+
+p {
+  font-size: 1.2em;
+  color: #e6e6e6;
+  font-weight: 300;
+}
+
+strong {
+  font-weight: 700;
+  color: #fad586;
+}
