@@ -8,9 +8,9 @@ function Life() {
       <Bio />
       <Navbar 
       prev={'Home'}
-      prevPath={'/'}
+      prevPath={'/react-portfolio#/'}
       forward={'Work'}
-      forPath={'/work'}
+      forPath={'/react-portfolio#/work#'}
       />
     </div>
   )

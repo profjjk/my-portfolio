@@ -13,9 +13,9 @@ function Work() {
       />
       <Navbar 
         prev={'Life'}
-        prevPath={'/life'}
+        prevPath={'/react-portfolio#/life#'}
         forward={'Blog'}
-        forPath={'/blog'}
+        forPath={'/react-portfolio#/blog#'}
       />
     </div>
   )
