@@ -6,7 +6,12 @@ function Life() {
   return (
     <div>
       <Bio />
-      <Navbar />
+      <Navbar 
+      prev={'Home'}
+      prevPath={'/'}
+      forward={'Work'}
+      forPath={'/work'}
+      />
     </div>
   )
 }

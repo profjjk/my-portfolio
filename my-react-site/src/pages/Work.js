@@ -9,9 +9,14 @@ function Work() {
     <div>
       <Skills />
       <Project 
-        projects={projects}
+        projects={projects.reverse()}
       />
-      <Navbar />
+      <Navbar 
+        prev={'Life'}
+        prevPath={'/life'}
+        forward={'Blog'}
+        forPath={'/blog'}
+      />
     </div>
   )
 }

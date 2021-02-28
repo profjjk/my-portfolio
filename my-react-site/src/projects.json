@@ -96,7 +96,7 @@
     "webiste": "https://profjjk.github.io/president-shuffle/"
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Staff Directory",
     "description": "This is an employee directory built using React. You can search the directory by name and sort it alphabetically by name.",
     "image": "/img/directory.png",

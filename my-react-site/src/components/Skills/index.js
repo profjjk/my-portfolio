@@ -29,6 +29,7 @@ function Skills() {
             <div class="col-2 skill mx-3 my-1">Git</div>
             <div class="col-2 skill mx-3 my-1">GitHub</div>
             <div class="col-2 skill mx-3 my-1">Problem Solving</div>
+            <div class="col-2 skill mx-3 my-1">React</div>
           </div>
         </div>
       </div>
