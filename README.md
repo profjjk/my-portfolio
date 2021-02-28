@@ -25,6 +25,6 @@ This is my portfolio website that was built using React.
 * [GitHub](https://github.com/profjjk)
 
 ## Screenshots
-![Home](my-react-site/public/img/home.png)
-![Life](my-react-site/public/img/life.png)
-![Work](my-react-site/public/img/work.png)
+![Home](public/img/home.png)
+![Life](public/img/life.png)
+![Work](public/img/work.png)
