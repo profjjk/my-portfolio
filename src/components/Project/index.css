@@ -6,6 +6,10 @@ h6, hr {
   color: #fad586;
 }
 
+img {
+  object-fit: contain;
+}
+
 .link {
   color: #fad586;
   font-size: 0.8em;

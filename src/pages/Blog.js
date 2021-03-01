@@ -7,9 +7,9 @@ function Blog() {
       <h1 className="text-center display-1 mt-5">- Coming Soon -</h1>
       <Navbar 
       prev={'Work'}
-      prevPath={'/react-portfolio#/work#'}
+      prevPath={'/work'}
       forward={'Home'}
-      forPath={'/react-portfolio#/'}
+      forPath={'/'}
       />
     </div>
   )
