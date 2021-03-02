@@ -18,7 +18,7 @@ This is my portfolio website that was built using React.
 * [React](https://reactjs.org/)
 
 ## How to Access
-[Website Link](https://profjjk.github.io/react-portfolio/)
+[Website Link](https://protected-inlet-60488.herokuapp.com/)
 
 ## About Me
 * [LinkedIn](www.linkedin.com/in/the-real-jordan-kelly)
