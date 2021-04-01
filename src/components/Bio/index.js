@@ -44,11 +44,11 @@ function Bio() {
             <p className="col-10 event">Graduated from U.C. Berkeley's full-stack web development bootcamp to pursue a career as a <strong>web developer</strong></p>
           </li>
         </ul>
-        <hr class="mx-auto w-50 mt-2"></hr>
+        <hr className="mx-auto w-50 mt-2"></hr>
       </section>
-      <section class="row mt-4" id="interests">
+      <section className="row mt-4" id="interests">
       <h4 className="col-2 text-end">Interests</h4>
-      <div class="col-10 px-5">
+      <div className="col-10 px-5">
         <p>These days I spend nearly every waking moment improving my craft as a web developer. When my face isn't buried in my screen, it is usually buried in a book. I am an avid reader, and while have enjoyed fiction in the past, I mostly read history and the occasional biography now.</p> 
         <p>I love to travel and immerse myself in different cultures. I caught the travel bug when I did a year studying abroad in France and exploring Europe, and I later spent an exciting few years working in China as an English teacher. Two of my favorite things to do when I can find the time are skiing and scuba-diving.</p>
         <p>My great loves in life are my beautiful wife, my cat, and my work.</p>
