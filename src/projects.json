@@ -37,6 +37,7 @@
     "description": "Bookish is a reading list application that allows you to keep a list of which books you have read, and it allows you to add new books that you want to read later.",
     "image": "/img/bookish.png",
     "github": "https://github.com/profjjk/bookish",
+<<<<<<< HEAD
     "website": "https://bookish-reading-list.herokuapp.com/"
   },
   {
@@ -54,5 +55,40 @@
     "image": "/img/dinner.png",
     "github": "https://github.com/profjjk/whats-for-dinner",
     "webiste": "https://vubao2303.github.io/Project-1/"
+=======
+    "webiste": "https://bookish-reading-list.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "title": "Get Fit",
+    "description": "This is a fitness and workout tracker that utilizes MongoDB and Mongoose.js to create a database of your workouts.",
+    "image": "/img/workout.png",
+    "github": "https://github.com/profjjk/get-fit",
+    "webiste": "https://jk-ucb-fitness-tracker.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "title": "President Shuffle",
+    "description": "This is a game built using React.js. Everytime time you click on an image the page will scramble their positions and you will need to click on a new image. If you click on the same image twice then it's GAME OVER.",
+    "image": "/img/shuffle.png",
+    "github": "https://github.com/profjjk/president-shuffle",
+    "webiste": "https://profjjk.github.io/president-shuffle/"
+  },
+  {
+    "id": 6,
+    "title": "Game of Thrones Quiz",
+    "description": "This is a Game of Thrones themed quiz consisting of 20 questions and set to a timer. Wrong answers will decrease the timer. Correct answers will be scored and a percentage will display at the end. Player names and scores are stored for reference and can be called upon by clicking on the scoreboard.",
+    "image": "/img/got-quiz.png",
+    "github": "https://github.com/profjjk/game-of-thrones-quiz",
+    "webiste": "https://game-of-thrones-quiz.herokuapp.com/"
+  },
+  {
+    "id": 7,
+    "title": "My Job",
+    "description": "This is a full stack web application that empowers a user to better organize their job search. The user can create a unique profile, add job applications, track their status, update with notes, and compare data.",
+    "image": "/img/my-job.png",
+    "github": "https://github.com/profjjk/my-job",
+    "webiste": "https://ucb-my-job.herokuapp.com/"
+>>>>>>> d4815b7c0eaeb6166b8d1161873150ac4cc48887
   }
 ]
