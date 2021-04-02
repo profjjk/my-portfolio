@@ -9,7 +9,7 @@ function Blog() {
       prev={'Work'}
       prevPath={'/my-portfolio/#/work'}
       forward={'Home'}
-      forPath={'/'}
+      forPath={'/my-portfolio/#/'}
       />
     </div>
   )

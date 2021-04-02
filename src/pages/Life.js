@@ -8,7 +8,7 @@ function Life() {
       <Bio />
       <Navbar 
       prev={'Home'}
-      prevPath={'/'}
+      prevPath={'/my-portfolio/#/'}
       forward={'Work'}
       forPath={'/my-portfolio/#/work'}
       />
