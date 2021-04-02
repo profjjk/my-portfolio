@@ -10,7 +10,7 @@ function Life() {
       prev={'Home'}
       prevPath={'/'}
       forward={'Work'}
-      forPath={'/#/work'}
+      forPath={'/my-portfolio/#/work'}
       />
     </div>
   )
