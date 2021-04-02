@@ -9,7 +9,7 @@ function Work() {
     <div>
       <Skills />
       <Project 
-        projects={projects.reverse()}
+        projects={projects}
       />
       <Navbar 
         prev={'Life'}
